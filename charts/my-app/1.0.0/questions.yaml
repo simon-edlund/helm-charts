@@ -1,0 +1,14 @@
+groups:
+  - name: My App Configuration
+    description: Configure My App
+
+questions:
+  - variable: TZ
+    group: My App Configuration
+    label: Timezone
+    schema:
+      type: string
+      default: Etc/UTC
+      required: true
+      $ref:
+        - definitions/timezone

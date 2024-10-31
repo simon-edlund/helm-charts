@@ -1,0 +1,30 @@
+{
+    "charts": {
+        "my-app": {
+            "app_readme": "READMEREADMEREADME",
+            "categories": [ "productivity", "test" ],
+            "name": "my-app",
+            "location": "my-app",
+            "latest_version": "1.0.0",
+            "latest_human_version": "1.0.0_1.0.0",
+            "description": "Description of my-app",
+            "latest_app_version": "1.0.0",
+            "recommended": true,
+            "last_update": "2024-11-03 18:00:00",
+            "healthy": true,
+            "healthy_error": null,
+            "icon_url": "https://media.sys.truenas.net/apps/syncthing/icons/icon.svg",
+            "home": "https://www.edlund.nl/",
+            "tags": ["test"],
+            "sources": ["https://github.com/"],
+            "screenshots": [],
+            "maintainers": [
+                {
+                    "name": "Simon Edlund",
+                    "url": "https://www.edlund.nl/",
+                    "email": "simon@edlund.nl"
+                }
+            ]
+        }
+    }
+}
