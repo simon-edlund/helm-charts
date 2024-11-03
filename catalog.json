@@ -1,7 +1,7 @@
 {
-    "charts": {
+    "private": {
         "my-app": {
-            "app_readme": "READMEREADMEREADME",
+            "app_readme": "READMEREADMEREADMEREADME",
             "categories": [ "productivity", "test" ],
             "name": "my-app",
             "location": "my-app",
